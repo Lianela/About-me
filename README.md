@@ -5,3 +5,8 @@
 - 📫 How to reach me Discord, DM, anything...
 
 So, yeah, basically, programming my own web browser, right now on Alpha phase using Chromium, expect to change that in next week, so, it would be good to achieve that
+
+Also, I'm new here, at GitHub, so I don't understand a lot.
+
+Basically, I speak English, Spanish, Korean and French, I can adapt quickly to other languages.
+I'm 22 years old, I'm at Discord at jung29, so, yeah.
