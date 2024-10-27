@@ -2,10 +2,11 @@
 - 👀 I’m interested in web browsing and games
 - 🌱 I’m currently learning Java, Python, C++, anything to be honest
 - 💞️ I’m looking to collaborate on anything, open to what looks interesting
-- 📫 How to reach me Discord, DM, anything... (I basically just edited this cuz I was bored to do something decent)
+- 📫 How to reach me: Discord, DM, anything... (I basically just edited this cuz I was bored to do something decent)
 
 So, yeah, basically, programming my own web browser... ~right now on Alpha phase using Chromium, expect to change that in next week, so, it would be good to achieve that...~
-I was, basically due to time problems and that, it achieved a good point, able to browse internet, save things, have a good looking window, and good things, I was trying to do a hybrid browser between Gecko, Chromium and Tor.
+<br>
+<br>I was, basically due to time problems and that, it achieved a good point, able to browse internet, save things, have a good looking window, and good things, I was trying to do a hybrid browser between Gecko, Chromium and Tor.
 
 So, uh, that proyect died a months ago, so don't expect to see anything new, probably I will start a new one....
 
