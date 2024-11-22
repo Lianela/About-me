@@ -22,3 +22,5 @@ Projects that I'm helping translating:
 **Hydra Launcher** - Game Launcher with its own embedded BitTorrent Client.  
 **Rockbox** - Free firmware for digital music players.  
 **SignalRGB** - Control and sync your RGB with one free app.  
+
+All of this, I'm proud of helping these projects, being all of them different things between each other but interesting to use, for my day, these are totally worth to take a look!
