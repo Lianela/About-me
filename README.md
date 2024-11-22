@@ -16,3 +16,8 @@ Basically, I speak English, Spanish, Korean and French, I can adapt quickly to o
 I'm 22 years old, I'm at Discord at jung29, so, yeah.
 
 Also, I'm proud of being a translator for any projects available, I can translate from any language to Spanish and English, usually I do this as a hobbie, so yeah... "Free" translation could be the word...
+
+Projects that I'm helping translating:
+Hydra Launcher - Game Launcher with its own embedded BitTorrent Client
+Rockbox - Free firmware for digital music players
+SignalRGB - Control and sync your RGB with one free app.
